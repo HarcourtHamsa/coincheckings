@@ -1,0 +1,148 @@
+[17-Jan-2021 17:39:45 America/New_York] PHP Notice:  Undefined index: firstname in /home/biztusct/okexfinance.net/ebuka/register.php on line 457
+[17-Jan-2021 17:39:45 America/New_York] PHP Notice:  Undefined index: lastname in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[17-Jan-2021 17:39:45 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 459
+[17-Jan-2021 17:39:45 America/New_York] PHP Notice:  Undefined index: type in /home/biztusct/okexfinance.net/ebuka/register.php on line 464
+[17-Jan-2021 17:50:18 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[17-Jan-2021 17:53:41 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 01:13:01 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 01:13:03 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 04:25:40 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 12:15:38 America/New_York] PHP Parse error:  syntax error, unexpected 'Segoe' (T_STRING) in /home/biztusct/okexfinance.net/ebuka/register.php on line 616
+[18-Jan-2021 12:18:59 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biztusct/okexfinance.net/ebuka/register.php on line 571
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biztusct/okexfinance.net/ebuka/register.php on line 571
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  Division by zero in /home/biztusct/okexfinance.net/ebuka/register.php on line 571
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biztusct/okexfinance.net/ebuka/register.php on line 601
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  A non-numeric value encountered in /home/biztusct/okexfinance.net/ebuka/register.php on line 601
+[18-Jan-2021 12:18:59 America/New_York] PHP Warning:  Division by zero in /home/biztusct/okexfinance.net/ebuka/register.php on line 601
+[18-Jan-2021 12:21:21 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 12:22:33 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[18-Jan-2021 12:22:33 America/New_York] PHP Notice:  Undefined variable: name in /home/biztusct/okexfinance.net/ebuka/register.php on line 595
+[18-Jan-2021 12:25:21 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 458
+[19-Jan-2021 03:07:25 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/okexfinance.net/ebuka/register.php on line 489
+[19-Jan-2021 03:21:16 America/New_York] PHP Notice:  Undefined variable: disabled in /home/biztusct/okexfinance.net/ebuka/index.php on line 541
+[19-Jan-2021 09:35:00 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[20-Jan-2021 02:56:06 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[20-Jan-2021 02:57:35 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[07-Feb-2021 13:07:38 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[07-Feb-2021 16:13:58 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[09-Feb-2021 17:54:09 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[11-Feb-2021 01:33:24 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[11-Feb-2021 01:37:23 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[11-Feb-2021 01:37:57 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[14-Feb-2021 13:21:28 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[16-Feb-2021 09:03:58 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[16-Feb-2021 09:04:29 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[16-Feb-2021 09:04:45 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[16-Feb-2021 17:48:39 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[18-Feb-2021 09:23:19 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[23-Feb-2021 16:50:31 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[26-Feb-2021 05:45:00 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:00 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:00 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:46 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:46 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:46 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:47 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:47 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:47 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:48 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:48 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:48 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:49 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:49 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:49 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:50 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:50 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:50 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:51 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[26-Feb-2021 05:45:51 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[26-Feb-2021 05:45:51 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 04:43:33 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[27-Feb-2021 04:45:41 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[27-Feb-2021 05:02:37 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[27-Feb-2021 10:43:37 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[27-Feb-2021 10:43:37 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 10:43:37 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 13:44:06 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[27-Feb-2021 13:44:06 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 13:44:06 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 14:00:40 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[27-Feb-2021 14:00:40 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 14:00:40 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 16:17:40 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[27-Feb-2021 16:17:40 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 16:17:40 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 16:34:55 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[27-Feb-2021 16:34:55 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[27-Feb-2021 16:34:55 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[02-Mar-2021 21:51:37 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[02-Mar-2021 21:51:37 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[02-Mar-2021 21:51:37 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[06-Mar-2021 17:08:26 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[06-Mar-2021 17:08:26 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[06-Mar-2021 17:08:26 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:32 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[07-Mar-2021 08:05:32 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:32 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:34 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[07-Mar-2021 08:05:34 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:34 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:50 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[07-Mar-2021 08:05:50 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:50 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:52 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[07-Mar-2021 08:05:52 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:05:52 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:06:03 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[07-Mar-2021 08:06:03 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[07-Mar-2021 08:06:03 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[11-Mar-2021 22:55:25 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[14-Mar-2021 06:51:07 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[14-Mar-2021 06:51:07 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[14-Mar-2021 06:51:07 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[14-Mar-2021 06:55:28 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[16-Mar-2021 00:07:55 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[16-Mar-2021 00:07:55 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[16-Mar-2021 00:07:55 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[17-Mar-2021 20:49:20 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[17-Mar-2021 20:49:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[17-Mar-2021 20:49:20 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[17-Mar-2021 22:18:30 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[19-Mar-2021 11:32:30 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[19-Mar-2021 16:39:39 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[19-Mar-2021 16:40:57 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[21-Mar-2021 09:48:26 America/New_York] PHP Notice:  Undefined index: username in /home/biztusct/coincheckings.com/register.php on line 650
+[25-Mar-2021 20:50:07 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[25-Mar-2021 20:50:07 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[25-Mar-2021 20:50:07 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[25-Mar-2021 20:50:43 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[25-Mar-2021 20:50:43 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[25-Mar-2021 20:50:43 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[25-Mar-2021 20:51:21 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[25-Mar-2021 20:51:21 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[25-Mar-2021 20:51:21 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[28-Mar-2021 17:26:25 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[28-Mar-2021 17:26:25 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[28-Mar-2021 17:26:25 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[28-Mar-2021 20:41:53 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[28-Mar-2021 20:41:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[28-Mar-2021 20:41:53 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[29-Mar-2021 04:21:24 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[29-Mar-2021 04:21:24 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[29-Mar-2021 04:21:24 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[30-Mar-2021 00:03:27 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[30-Mar-2021 00:03:27 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[30-Mar-2021 00:03:27 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[31-Mar-2021 00:31:54 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[31-Mar-2021 00:31:54 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[31-Mar-2021 00:31:54 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[01-Apr-2021 02:32:10 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[01-Apr-2021 02:32:10 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[01-Apr-2021 02:32:10 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[02-Apr-2021 11:34:54 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[02-Apr-2021 11:34:54 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[02-Apr-2021 11:34:54 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[06-Apr-2021 04:40:25 America/New_York] PHP Deprecated:  Function create_function() is deprecated in /home/biztusct/coincheckings.com/about.php on line 117
+[06-Apr-2021 04:40:25 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1
+[06-Apr-2021 04:40:25 America/New_York] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/biztusct/coincheckings.com/about.php(117) : runtime-created function on line 1

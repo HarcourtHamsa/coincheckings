@@ -1,0 +1,80 @@
+[04-Jul-2020 08:04:07 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:17:16 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:18:10 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:21:32 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:21:40 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:21:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 231
+[04-Jul-2020 08:21:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 232
+[04-Jul-2020 08:22:27 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:22:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 231
+[04-Jul-2020 08:22:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 232
+[04-Jul-2020 08:22:50 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:29:50 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[04-Jul-2020 08:29:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 231
+[04-Jul-2020 08:29:50 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 232
+[04-Jul-2020 08:30:44 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'biztusct_forex'@'localhost' to database 'biztusct_forex' in /home/biztusct/okexfinance.com/Exfinance/index.php/signin.php on line 1
+[06-Jul-2020 11:26:03 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 11:26:03 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 11:26:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 11:26:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 14:28:18 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 14:28:18 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:28:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:28:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 14:30:00 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 14:30:00 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:30:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:30:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 14:31:35 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 14:31:35 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:31:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 14:31:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 18:07:53 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 18:07:53 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:07:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:07:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 18:09:26 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 18:09:26 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:09:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:09:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[06-Jul-2020 18:10:57 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[06-Jul-2020 18:10:57 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:10:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[06-Jul-2020 18:10:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 00:11:15 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 00:11:15 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:11:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:11:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 00:12:50 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 00:12:50 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:12:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:12:50 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 00:14:25 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 00:14:25 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:14:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 00:14:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 16:45:15 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 16:45:15 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:45:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:45:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 16:46:48 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 16:46:48 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:46:48 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:46:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 16:56:32 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 16:56:32 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:56:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:56:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 16:58:10 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 16:58:10 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:58:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:58:10 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[07-Jul-2020 16:59:50 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[07-Jul-2020 16:59:50 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:59:50 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[07-Jul-2020 16:59:50 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[10-Jul-2020 00:06:39 America/New_York] PHP Notice:  Undefined variable: password in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 246
+[10-Jul-2020 00:06:39 America/New_York] PHP Notice:  Undefined variable: con in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[10-Jul-2020 00:06:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 251
+[10-Jul-2020 00:06:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/biztusct/okexfinance.com/Exfinance/index.php/forgotpass2.php on line 252
+[24-Nov-2020 09:58:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/biztusct/okexfinance.net/Exfinance/index.php/signin.php on line 233

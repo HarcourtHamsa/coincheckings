@@ -1,0 +1,25 @@
+
+RewriteEngine on  
+  
+RewriteRule ^HOME  index.php [NC,L]
+RewriteRule ^SIGNUP  signup.php [NC,L]
+RewriteRule ^SIGNIN  signin.php [NC,L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1&param2=$2&param3=$3 [NC,L]
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1&param2=$2 [NC,L]
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1 [NC,L]
+RewriteRule ^IMAGE image_folder/image.php [NC,L]

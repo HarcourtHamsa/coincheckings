@@ -1,0 +1,38 @@
+
+RewriteEngine on  
+  
+RewriteRule ^HOME  index.php [NC,L]
+RewriteRule ^SIGNUP  signup.php [NC,L]
+RewriteRule ^DASHBOARD  dashboard.php [NC,L]
+RewriteRule ^PROFILE  userprofile.php [NC,L]
+RewriteRule ^VERIFY  verify.php [NC,L]
+RewriteRule ^WITHDRAW  withdraw.php [NC,L]
+RewriteRule ^FUND  fund.php [NC,L]
+RewriteRule ^REFERRAL  referral.php [NC,L]
+RewriteRule ^adminwithdrawalrequest  adminwithdrawalrequest.php [NC,L]
+RewriteRule ^viewdrawal  viewdrawal.php [NC,L]
+RewriteRule ^upgrade  upgrade.php [NC,L]
+RewriteRule ^theupgraderequest  theupgraderequest.php [NC,L]
+RewriteRule ^user  user.php [NC,L]
+RewriteRule ^auth  auth.php [NC,L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1&param2=$2&param3=$3 [NC,L]
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1&param2=$2 [NC,L]
+RewriteRule ^IMAGE/([a-zA-Z0-9\-=&_@\.\,\)\(]*)$ /image_folder/image.php?param1=$1 [NC,L]
+RewriteRule ^IMAGE image_folder/image.php [NC,L]
